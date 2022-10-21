@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react_app/static/css/main.0ddd2ff8.css",
+    "main.js": "/react_app/static/js/main.219d5210.js",
+    "static/media/Poppins-LightItalic.woff": "/react_app/static/media/Poppins-LightItalic.cbc254035fd2db12340f.woff",
+    "static/media/Poppins-Italic.woff": "/react_app/static/media/Poppins-Italic.dce4482653df21326fb3.woff",
+    "static/media/Poppins-SemiBoldItalic.woff": "/react_app/static/media/Poppins-SemiBoldItalic.ae7a11bcc58ca2e84f43.woff",
+    "static/media/Poppins-MediumItalic.woff": "/react_app/static/media/Poppins-MediumItalic.38bd2f9c930011bc0e4f.woff",
+    "static/media/Poppins-BoldItalic.woff": "/react_app/static/media/Poppins-BoldItalic.066192b3e079bf989a28.woff",
+    "static/media/Poppins-Regular.woff": "/react_app/static/media/Poppins-Regular.387f9003f984ef1cec60.woff",
+    "static/media/Poppins-Light.woff": "/react_app/static/media/Poppins-Light.6f5b7a1c94cb6419bec4.woff",
+    "static/media/Poppins-SemiBold.woff": "/react_app/static/media/Poppins-SemiBold.71da8e4f0d76b718897c.woff",
+    "static/media/Poppins-Medium.woff": "/react_app/static/media/Poppins-Medium.7e588a26bdac2428f240.woff",
+    "static/media/Poppins-Bold.woff": "/react_app/static/media/Poppins-Bold.a6b628bdef91e927b77c.woff",
+    "static/media/Poppins-Italic.woff2": "/react_app/static/media/Poppins-Italic.f932365bae7a67562d50.woff2",
+    "static/media/Poppins-LightItalic.woff2": "/react_app/static/media/Poppins-LightItalic.f8fc4fd3d2ad4a00a9a2.woff2",
+    "static/media/Poppins-SemiBoldItalic.woff2": "/react_app/static/media/Poppins-SemiBoldItalic.6ad14e1bba33d088176b.woff2",
+    "static/media/Poppins-BoldItalic.woff2": "/react_app/static/media/Poppins-BoldItalic.18770f85e0c23fcc2822.woff2",
+    "static/media/Poppins-MediumItalic.woff2": "/react_app/static/media/Poppins-MediumItalic.de07f277b373e75a16b2.woff2",
+    "static/media/Poppins-Regular.woff2": "/react_app/static/media/Poppins-Regular.ad19729d6a0511212493.woff2",
+    "static/media/Poppins-SemiBold.woff2": "/react_app/static/media/Poppins-SemiBold.3c3f3613b59d581739fc.woff2",
+    "static/media/Poppins-Light.woff2": "/react_app/static/media/Poppins-Light.9bec05ab7f83d34eb905.woff2",
+    "static/media/Poppins-Bold.woff2": "/react_app/static/media/Poppins-Bold.dd24d10e037690f2bdcd.woff2",
+    "static/media/Poppins-Medium.woff2": "/react_app/static/media/Poppins-Medium.563f976db73ca07d8fc3.woff2",
+    "index.html": "/react_app/index.html",
+    "main.0ddd2ff8.css.map": "/react_app/static/css/main.0ddd2ff8.css.map",
+    "main.219d5210.js.map": "/react_app/static/js/main.219d5210.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ddd2ff8.css",
+    "static/js/main.219d5210.js"
+  ]
+}
