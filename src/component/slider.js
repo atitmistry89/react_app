@@ -1,11 +1,11 @@
 import React from 'react'
 
 const slides = [
-    { imageUrl: './react_app/images/logo1.png'},
-    { imageUrl: './react_app/images/logo2.png'},
-    { imageUrl: './react_app/images/logo3.png'},
-    { imageUrl: './react_app/images/logo4.png'},
-    { imageUrl: './react_app/images/logo5.png'}
+    { imageUrl: './images/logo1.png'},
+    { imageUrl: './images/logo2.png'},
+    { imageUrl: './images/logo3.png'},
+    { imageUrl: './images/logo4.png'},
+    { imageUrl: './images/logo5.png'}
 ]
 
 const slideItems = slides.map(slide =>

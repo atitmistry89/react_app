@@ -8,10 +8,10 @@ import Filter from "./pages/Filter";
 
 export default function App() {
   return (
-    <Router>
+    <Router basename={'/react_app'}>
       <Routes>
-        <Route exact path='/react_app' element={< Home />}></Route>
-        <Route exact path='/filter' element={< Filter />}></Route>
+        <Route exact path={'/'} element={< Home />}></Route>
+        <Route exact path={'/filter'} element={< Filter />}></Route>
       </Routes>
     </Router>
   );

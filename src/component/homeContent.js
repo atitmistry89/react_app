@@ -47,7 +47,7 @@ function HomeContent() {
             <div className="row">
               <div className="col-lg-7">
                 <div className="left">
-                  <img src="./react_app/images/app-features.png" alt="" />
+                  <img src="./images/app-features.png" alt="" />
                 </div>
               </div>
               <div className="col-lg-5">
