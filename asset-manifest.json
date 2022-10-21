@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_app/static/css/main.0ddd2ff8.css",
-    "main.js": "/react_app/static/js/main.91a8d5dc.js",
+    "main.js": "/react_app/static/js/main.e288056f.js",
     "static/media/Poppins-LightItalic.woff": "/react_app/static/media/Poppins-LightItalic.cbc254035fd2db12340f.woff",
     "static/media/Poppins-Italic.woff": "/react_app/static/media/Poppins-Italic.dce4482653df21326fb3.woff",
     "static/media/Poppins-SemiBoldItalic.woff": "/react_app/static/media/Poppins-SemiBoldItalic.ae7a11bcc58ca2e84f43.woff",
@@ -24,10 +24,10 @@
     "static/media/Poppins-Medium.woff2": "/react_app/static/media/Poppins-Medium.563f976db73ca07d8fc3.woff2",
     "index.html": "/react_app/index.html",
     "main.0ddd2ff8.css.map": "/react_app/static/css/main.0ddd2ff8.css.map",
-    "main.91a8d5dc.js.map": "/react_app/static/js/main.91a8d5dc.js.map"
+    "main.e288056f.js.map": "/react_app/static/js/main.e288056f.js.map"
   },
   "entrypoints": [
     "static/css/main.0ddd2ff8.css",
-    "static/js/main.91a8d5dc.js"
+    "static/js/main.e288056f.js"
   ]
 }
