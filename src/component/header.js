@@ -7,14 +7,14 @@ function Header() {
         <div className="container">
             <div className="row align-items-center">
                 <div className="col-lg-3">
-                    <a href="/reat_app"><img src="./images/logo.png" alt="Logo" /></a>
+                    <a href="/react_app"><img src="./images/logo.png" alt="Logo" /></a>
                 </div>
                 <div className="col-lg-9">
                     <div className="header-right d-flex align-items-center justify-content-end">
                         <nav>
                             <ul>
                                 <li>
-                                    <Link to="/react_app">Home</Link>
+                                    <Link to="/">Home</Link>
                                 </li>
                                 <li>
                                     <Link to="/filter">Filter</Link>
