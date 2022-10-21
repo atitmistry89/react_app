@@ -10,7 +10,7 @@ export default function App() {
   return (
     <Router>
       <Routes>
-        <Route exact path='/' element={< Home />}></Route>
+        <Route exact path='/react_app' element={< Home />}></Route>
         <Route exact path='/filter' element={< Filter />}></Route>
       </Routes>
     </Router>
