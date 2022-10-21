@@ -14,7 +14,7 @@ function Header() {
                         <nav>
                             <ul>
                                 <li>
-                                    <Link to="/react_app">Home</Link>
+                                    <Link to="/">Home</Link>
                                 </li>
                                 <li>
                                     <Link to="/filter">Filter</Link>
