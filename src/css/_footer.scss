@@ -1,0 +1,41 @@
+footer {
+	background: $dark-blue;
+	text-align: center;
+
+    nav {
+        ul {
+            display: flex;
+            justify-content: center;
+
+            li {
+                a {
+                    display: block;
+                    text-decoration: none;
+                    color: $white;
+                    font-size: 16px;
+                    line-height: normal;
+                    padding: 0 20px;
+                }
+            }
+        }
+    }
+
+    ul.social {
+        li {
+            a {
+                color: #273043;
+                font-size: 30px;
+                padding: 0 10px;
+            }
+        }
+    }
+
+    .copy {
+        p {
+            margin: 0;
+            color: #3d465a;
+            font-size: 14px;
+            line-height: normal;
+        }
+    }
+}

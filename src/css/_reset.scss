@@ -1,0 +1,16 @@
+@import 'variables';
+@import 'mixin';
+
+a {
+    text-decoration: none;
+    color: $blue;
+}
+
+ul, ol {
+	@include padding();
+	@include margin();
+
+    li {
+        list-style: none;
+    }
+}

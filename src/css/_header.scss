@@ -1,0 +1,17 @@
+header {
+    nav {
+        ul {
+            display: flex;
+            > li {
+                a {
+                    color: $blue;
+                    font-size: 16px;
+                    line-height: 44px;
+                    display: block;
+                    text-decoration: none;
+                    padding: 10px 18px;
+                }
+            }
+        }
+    }
+}

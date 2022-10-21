@@ -1,0 +1,141 @@
+section#banner {
+    background: url("../images/banner-bg.png") repeat-x;
+    background-position: bottom;
+    background-size: contain;
+
+    .left {
+        max-width: 530px;
+        width: 100%;
+        padding-top: 190px;
+        margin: auto;
+
+        h3 {
+            color: $blue;
+            font-size: 18px;
+            line-height: 28px;
+            background: $sky-blue;
+            display: inline-block;
+            vertical-align: top;
+            position: relative;
+            border-radius: 30px;
+            padding: 5px 45px;
+
+            &::before {
+                content: "";
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 40px;
+                height: 100%;
+                background: $yellow;
+                border-radius: 30px;
+            }
+            &::after {
+                content: "";
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                left: 10px;
+                width: 19px;
+                height: 19px;
+                background: url("../images/banner-icon.png") no-repeat;
+                background-position: center;
+                background-size: 19px auto;
+            }
+          }
+
+        h1 {
+            font-size: 60px;
+            line-height: 75px;
+            font-weight: 600;
+            color: $blue;
+        }
+
+        p {
+            color: $dark-grey;
+            font-size: 18px;
+            line-height: 28px;
+        }
+
+        .btn-group {
+            a:not(.btn-1) {
+                color: $light-blue;
+            }
+        }
+    }
+}
+
+section#hm-trusted {
+	padding: 115px 0;
+
+    h2 {
+        font-size: 16px;
+        line-height: 28px;
+        color: $blue;
+      }
+
+    img {
+        object-fit: contain;
+    }
+}
+
+section#app-features {
+    .right {
+        max-width: 430px;
+        width: 100%;
+
+        > h2 {
+            font-size: 36px;
+            line-height: 46px;
+            color: $blue;
+            font-weight: 600;
+        }
+
+        > p {
+            margin-bottom: 70px;
+        }
+
+        ul#feature-list {
+            li {
+                .image {
+                    border-radius: 100%;
+                    margin-right: 35px;
+                    max-width: 88px;
+                    width: 100%;
+                    height: 88px;
+                }
+
+                &:first-child {
+                    .image {
+                        background: #ffecef;
+                    }
+                }
+
+                &:nth-child(2) {
+                    .image {
+                        background: #f4f4ff;
+                    }
+                }
+
+                &:last-child {
+                    .image {
+                        background: #e4ffee;
+                    }
+                }
+
+                .text {
+                    h3 {
+                        font-size: 20px;
+                        line-height: 58px;
+                        font-weight: 600;
+                        color: #f55767;
+                    }
+
+                    p {
+                        color: $dark-grey;
+                    }
+                }
+            }
+        }
+    }
+}
