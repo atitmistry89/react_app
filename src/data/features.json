@@ -1,16 +1,16 @@
 [
     {
-        "image": "./images/speed.png",
+        "image": "react_app/images/speed.png",
         "heading": "Fast Performance",
         "text": "Get your blood tests delivered at home collect a sample from the news your blood tests."
     },
     {
-        "image": "./images/prototype.png",
+        "image": "react_app/images/prototype.png",
         "heading": "Prototyping",
         "text": "Get your blood tests delivered at home collect a sample from the news your blood tests."
     },
     {
-        "image": "./images/vector.png",
+        "image": "react_app/images/vector.png",
         "heading": "Vector Editing",
         "text": "Get your blood tests delivered at home collect a sample from the news your blood tests."
     }

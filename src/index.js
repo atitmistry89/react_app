@@ -1,25 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import { BrowserRouter as Router,Routes, Route } from "react-router-dom";
+import App from "./App";
+import Footer from "./component/footer";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import 'bootstrap/dist/js/bootstrap.min.js'
-import Home from "./pages/Home";
-import Filter from "./pages/Filter";
 
-export default function App() {
-  return (
-    <Router>
-      <Routes>
-        <Route exact path='/react_app' element={< Home />}></Route>
-        <Route exact path='/filter' element={< Filter />}></Route>
-      </Routes>
-    </Router>
-  );
-}
-
-const root = ReactDOM.createRoot(document.getElementById("main"));
+const root = ReactDOM.createRoot(document.getElementById("App"));
 root.render(
   <React.StrictMode>
     <App />
+    <Footer />
   </React.StrictMode>
 );

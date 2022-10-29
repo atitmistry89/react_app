@@ -1,5 +1,5 @@
 section#banner {
-    background: url("../images/banner-bg.png") repeat-x;
+    background: url("../../public/images/banner-bg.png") repeat-x;
     background-position: bottom;
     background-size: contain;
 
@@ -38,7 +38,7 @@ section#banner {
                 left: 10px;
                 width: 19px;
                 height: 19px;
-                background: url("../images/banner-icon.png") no-repeat;
+                background: url("../../public/images/banner-icon.png") no-repeat;
                 background-position: center;
                 background-size: 19px auto;
             }
