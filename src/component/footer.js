@@ -8,7 +8,7 @@ function Footer() {
           <div className="row">
             <div className="col-lg-12">
               <div className="logo mb-4 mb-sm-5">
-                <a href="/react_app"><img src="react_app/images/logo.png" alt="Logo" /></a>
+                <a href="/react_app/"><img src="./images/logo.png" alt="Logo" /></a>
               </div>
               <nav>
                   <ul className="mb-4 mb-sm-5">
